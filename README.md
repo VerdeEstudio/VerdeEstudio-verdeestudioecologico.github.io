@@ -1,4 +1,4 @@
-##Manifiesto y Estructura
+## Manifiesto y Estructura
 
 Verde Estudio Ecológico se configura como una entidad radicalmente independiente destinada a la experimentación, la investigación y la creación artística, operando al margen de cualquier estructura mercantil, sin ánimo de lucro, exenta de colaboradores externos y desprovista de constitución jurídica formal. Su andamiaje operativo descansa sobre la intersección simbiótica de la informática, el pensamiento ecológico y la práctica artística.
 
